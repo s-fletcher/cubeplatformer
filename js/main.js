@@ -1,4 +1,4 @@
-var canvas = document.getElementById("canvas"),
+var canvas = document.getElementById("platformer"),
     ctx = canvas.getContext("2d"),
     width = 1000,
     height = 500,

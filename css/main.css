@@ -2,7 +2,7 @@ body
 {
   margin: 0;
 }
-#canvas
+#platformer
 {
   border: 1px solid black;
   margin-left: calc(50% - 500px);
